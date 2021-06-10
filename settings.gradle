@@ -1,0 +1,2 @@
+rootProject.name = "KDS Test"
+include ':app'
